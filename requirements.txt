@@ -1,4 +1,4 @@
 langchain
 streamlit
 langchain_google_genai
-langchain community
+langchain.prompts
