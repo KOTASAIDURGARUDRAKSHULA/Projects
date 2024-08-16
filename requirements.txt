@@ -2,3 +2,4 @@ langchain==0.2.14
 streamlit
 langchain_google_genai
 langchain.prompts
+requests
