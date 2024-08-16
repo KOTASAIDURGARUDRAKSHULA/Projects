@@ -2,3 +2,4 @@ langchain
 streamlit
 langchain_google_genai
 langchain.prompts
+python3
