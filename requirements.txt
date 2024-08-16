@@ -1,5 +1,5 @@
-langchain
+langchain==0.2.14
 streamlit
 langchain_google_genai
-langchain.prompts==0.2.14
+langchain.prompts
 python3
