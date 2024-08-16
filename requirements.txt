@@ -1,4 +1,4 @@
-langchain
+langchain=0.0.55
 streamlit
 langchain_google_genai
 langchain.prompts
