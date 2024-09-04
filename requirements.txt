@@ -1,5 +1,11 @@
-langchain==0.2.14
 streamlit
+PyPDF2
+langchain
+python-dotenv
+google-generativeai
+faiss-cpu
+langchain_community
 langchain_google_genai
-langchain.prompts
-requests
+matplotlib
+plotly
+google-cloud-translate
