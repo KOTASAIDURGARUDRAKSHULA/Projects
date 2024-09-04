@@ -10,3 +10,4 @@ matplotlib
 plotly
 google-cloud-translate
 gTTS
+pygame
