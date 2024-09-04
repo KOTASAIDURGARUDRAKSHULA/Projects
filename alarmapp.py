@@ -7,7 +7,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.messages import HumanMessage
 from threading import Thread, Event
 
-GEMINI_API_KEY = "AIzaSyCO6y_i3Rea0dkQUkglFyAlpdXeRrmixgQ"  # Replace with your Gemini API key
+GEMINI_API_KEY = "YOUR_API_KEY"  # Replace with your Gemini API key
 
 # Global event to control alarm stopping
 stop_alarm_event = Event()
