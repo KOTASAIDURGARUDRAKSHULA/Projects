@@ -16,7 +16,7 @@ from pydantic import ValidationError
 
 # Load environment variables
 load_dotenv()
-api_key = os.getenv("GOOGLE_API_KEY")
+api_key = os.getenv("AIzaSyCO6y_i3Rea0dkQUkglFyAlpdXeRrmixgQ")
 if not api_key:
     st.error("API key not found. Please set the GOOGLE_API_KEY environment variable.")
 else:
